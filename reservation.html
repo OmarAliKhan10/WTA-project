@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reservation - Shawarma Stars</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="images/Logo.jpg" alt="Shawarma Stars Logo" class="logo">
+        <h1>Shawarma Stars</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="menu.html">Menu</a></li>
+                <li><a href="home_delivery.html">Home Delivery</a></li>
+                <li><a href="about.html">About Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Reserve a Table</h2>
+        <form>
+            <label for="reservation-name">Your Name:</label>
+            <input type="text" id="reservation-name" name="reservation-name" placeholder="Enter your name">
+            
+            <label for="reservation-phone">Phone Number:</label>
+            <input type="tel" id="reservation-phone" name="reservation-phone" placeholder="+91-XXXXXXXXXX">
+
+            <label for="date">Select Date:</label>
+            <input type="date" id="date" name="date">
+
+            <label for="time">Select Time:</label>
+            <input type="time" id="time" name="time" min="09:00" max="21:00">
+
+            <button type="submit">Reserve Table</button>
+        </form>
+    </main>
+    <footer>
+        <p>Contact Us: +91 9148337532</p>
+        <p>Address: Kalyan Nagar, Bengaluru 560043</p>
+    </footer>
+</body>
+</html>
