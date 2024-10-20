@@ -1,1 +1,20 @@
-
+Responsive Design.
+Logo and Branding.
+Interactive Navigation.
+Dynamic Menu Page.
+Online Ordering System.
+Reservation System.
+Contact Information.
+Google Maps Integration.
+SEO Optimised.
+Social Media Integration.
+Customer Review/Testimonial Section.
+Promotional Section.
+Photo Gallery.
+Email Subscription/Newsletter Signup.
+Multi-language Support.
+Analytics and Tracking.
+Loading Speed Optimization.
+Accessibilty Features.
+Blog Section.
+FAQ's Section.
